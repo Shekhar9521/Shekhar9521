@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Kali 
+- 🔭 I’m currently working on ...Kalilinuxc
 - 🌱 I’m currently learning ...Ethical Hacking
 - 👯 I’m looking to collaborate on ...Data Analytics
 - 🤔 I’m looking for help with ...Cloud Computing
