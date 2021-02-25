@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Data Analytics
 - 🤔 I’m looking for help with ...Cloud Computing
 - 💬 Ask me about ...Tech related Stuff .
-- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/chandra-shekhar-shukla-964389191/)
+- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/chandra-shekhar-shukla-964389191/) , [Twitter](https://twitter.com/iamshukla07)
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...“If I could have any superpower, it would be coding".
 
